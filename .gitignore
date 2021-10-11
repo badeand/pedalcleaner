@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+.idea/encodings.xml
+.idea/modules.xml
+.idea/pedalcleaner.iml
+.idea/vcs.xml
